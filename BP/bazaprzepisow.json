@@ -1,0 +1,257 @@
+﻿[
+  {
+    "Nazwa": "Owoce z jogurtem",
+    "Cena": 5.71,
+    "Skladniki": [
+      {
+        "produkt": "jablko",
+        "waga": 200
+      },
+      {
+        "produkt": "banan",
+        "waga": 100
+      },
+      {
+        "produkt": "kiwi",
+        "waga": 400
+      },
+      {
+        "produkt": "jogurt",
+        "waga": 200
+      }
+    ],
+    "Czas": 15,
+    "Kategoria": "sniadanie",
+    "Opis": "Owoce z jogurtem.png"
+  },
+  {
+    "Nazwa": "Omlet z owocami",
+    "Cena": 7.71,
+    "Skladniki": [
+      {
+        "produkt": "jablko",
+        "waga": 200
+      },
+      {
+        "produkt": "banan",
+        "waga": 100
+      },
+      {
+        "produkt": "kiwi",
+        "waga": 400
+      },
+      {
+        "produkt": "jogurt",
+        "waga": 200
+      }
+    ],
+    "Czas": 30,
+    "Kategoria": "sniadanie",
+    "Opis": "Omlet z owocami.png"
+  },
+  {
+    "Nazwa": "Kurczak w sosie z cukinia i gorgonzola",
+    "Cena": 30.00,
+    "Skladniki": [
+      {
+        "produkt": "kurczak",
+        "waga": 100
+      },
+      {
+        "produkt": "cukinia",
+        "waga": 75
+      },
+      {
+        "produkt": "olej",
+        "waga": 4
+      },
+      {
+        "produkt": "maka pszenna",
+        "waga": 4
+      },
+      {
+        "produkt": "bulion",
+        "waga": 30
+      },
+      {
+        "produkt": "kurkuma",
+        "waga": 1
+      },
+      {
+        "produkt": "koperek",
+        "waga": 15
+      },
+      {
+        "produkt": "szczypiorek",
+        "waga": 15
+      },
+      {
+        "produkt": "smietana",
+        "waga": 30
+      },
+      {
+        "produkt": "gorgonzola",
+        "waga": 25
+      }
+    ],
+    "Czas": 30,
+    "Kategoria": "obiad",
+    "Opis": "Kurczak w sosie z cukinia.png"
+  },
+  {
+    "Nazwa": "Makaron w sosie pieczarkowym",
+    "Cena": 20.40,
+    "Skladniki": [
+      {
+        "produkt": "filety z piersi kurczaka",
+        "waga": 150
+      },
+      {
+        "produkt": "makaron",
+        "waga": 100
+      },
+      {
+        "produkt": "ser",
+        "waga": 50
+      },
+      {
+        "produkt": "pieczarki",
+        "waga": 50
+      },
+      {
+        "produkt": "cebula",
+        "waga": 150
+      },
+      {
+        "produkt": "musztarda",
+        "waga": 150
+      },
+      {
+        "produkt": "swieza natka pietruszki",
+        "waga": 15
+      },
+      {
+        "produkt": "olej",
+        "waga": 30
+      }
+    ],
+    "Czas": 30,
+    "Kategoria": "obiad",
+    "Opis": "Makaron w sosie pieczarkowym.png"
+  },
+  {
+    "Nazwa": "Salatka z pomidorem, mozarella i boczkiem",
+    "Cena": 25.00,
+    "Skladniki": [
+      {
+        "produkt": "boczek wedzony",
+        "waga": 125
+      },
+      {
+        "produkt": "salata",
+        "waga": 20
+      },
+      {
+        "produkt": "pomidor",
+        "waga": 350
+      },
+      {
+        "produkt": "cebula",
+        "waga": 40
+      },
+      {
+        "produkt": "mozarella",
+        "waga": 125
+      },
+      {
+        "produkt": "sok z cytryny",
+        "waga": 15
+      },
+      {
+        "produkt": "miod",
+        "waga": 30
+      },
+      {
+        "produkt": "musztarda",
+        "waga": 15
+      },
+      {
+        "produkt": "olej roslinny",
+        "waga": 20
+      }
+    ],
+    "Czas": 30,
+    "Kategoria": "kolacja",
+    "Opis": "Salatka z pomidorem, mozarella i boczkiem.png"
+  },
+  {
+    "Nazwa": "Zapiekanki z pieczarkami i serem",
+    "Cena": 15.00,
+    "Skladniki": [
+      {
+        "produkt": "bagietka",
+        "waga": 45
+      },
+      {
+        "produkt": "pieczarki",
+        "waga": 100
+      },
+      {
+        "produkt": "cebula",
+        "waga": 40
+      },
+      {
+        "produkt": "maslo",
+        "waga": 20
+      },
+      {
+        "produkt": "sol",
+        "waga": 1
+      },
+      {
+        "produkt": "pieprz",
+        "waga": 1
+      },
+      {
+        "produkt": "ser",
+        "waga": 38
+      },
+      {
+        "produkt": "ketchup",
+        "waga": 15
+      }
+    ],
+    "Czas": 25,
+    "Kategoria": "kolacja",
+    "Opis": "Zapiekanki z pieczarkami i serem.png"
+  },
+  {
+    "Nazwa": "Bruschetta",
+    "Cena": 10.50,
+    "Skladniki": [
+      {
+        "produkt": "bulka",
+        "waga": 28
+      },
+      {
+        "produkt": "oliwa",
+        "waga": 5
+      },
+      {
+        "produkt": "czosnek",
+        "waga": 5
+      },
+      {
+        "produkt": "pomidor",
+        "waga": 340
+      },
+      {
+        "produkt": "bazylia",
+        "waga": 3
+      }
+    ],
+    "Czas": 10,
+    "Kategoria": "kolacja",
+    "Opis": "Bruschetta.png"
+  }
+]

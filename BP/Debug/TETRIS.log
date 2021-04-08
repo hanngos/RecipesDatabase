@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (TETRIS.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  TETRIS.vcxproj -> C:\Users\irene\source\repos\PK4\Projekt\BP\Debug\BP.exe
